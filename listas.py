@@ -13,5 +13,5 @@ print(lista_2)
 lista_2.pop(2) #elimina el valor en la posicion ingresada dentro del parentesis y si no  hay nada dentro delparentesis borra el ultimo dato
 #las listas se enpieza a contas desde 0
 print(lista_2)
-lista_2.reverse()#le da vuelta a la lista
-print(lista_2)
+lista_2.reverse()#le da vuelta a la lista 
+print(lista)
